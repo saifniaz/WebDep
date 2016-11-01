@@ -1,0 +1,138 @@
+body > header{
+    height: 260px;
+    background: #000070;
+}
+
+#logo{
+    height: 200px;
+    padding: 10px;
+}
+
+#logo img{
+    height: 200px;
+    width: 180px;
+    padding: 10px;
+    float: left;
+}
+
+#logo p{
+    margin-top: 100px;
+    margin-left: 180px;
+    color: white;
+    font-size: 24pt;
+    font-family: 'Tangerine', cursive;
+    font-style: oblique;
+    
+}
+
+nav{
+    float: right;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+    font-weight: 700;
+    font-size: 20px;    
+}
+
+nav ul li a{
+    color: lightblue;
+}
+
+nav ul li a:hover{
+     background-color: #C5CAE9;
+    border-radius: 1px;
+}
+
+#overview, #rules, #history{
+    margin: 10px;
+}
+
+#overview .header, #rules .header,#history .header {
+    padding: 10px;
+    padding-top: 1px;
+    height: 30px;
+    background: #000070;
+}
+
+#overview .header a, #rules .header a, #history .header a{
+    color: white;
+    font-size: 15pt;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#overview .body, #rules .body, #history .body{
+    padding: 10px;
+    border: 1px solid #000070;
+    background: #f0f0ff;
+}
+
+#calender table{
+    color: black;
+    width: 100%;
+    height: 100%;
+}
+#calender tr{
+    height: 100px;
+}
+
+#calender th{
+    text-align: center;
+    border: 1px solid #000070;
+    width: 200px;
+}
+
+#calender #mname{
+    margin: 10px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding: 5px;
+    width: 100%;
+    background: #000070;
+    text-align: center;
+}
+
+#calender #mname a{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.game{
+    background: #f0f0ff;
+}
+
+#comment1 p, #comment2 p{
+    border: 1px solid #000070;
+    background: #f0f0ff;
+    margin: 10px;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+#comment1 h5, #comment2 h5{
+    background: #000070;
+    margin: 10px;
+    margin-bottom: 0px;
+    color: white;
+    padding: 10px;
+    
+}
+body > h2{
+    text-align: center;
+    padding: 10px;
+}
+body> form{
+    margin: 10px;
+    padding: 5px;
+}
+
+body>form>textarea{
+    width: 400px;
+    height: 120px;
+}
+
+body>form>input{
+    width: 200px;
+}
