@@ -1,0 +1,49 @@
+.box{
+    background-color: lightblue;
+    border: 2px solid black;
+    height: 475px;
+    width: 400px;
+    padding: 40px;
+    margin-left: 60px;
+    margin-top: 0px;
+    padding-top: 5px;
+}
+
+#weather > h2{
+    font-size: 25px;
+}
+
+#weather > p{
+    padding: 0px;
+    margin: 0px;
+}
+
+#form{
+    margin: 35px;
+}
+
+#weather > p{
+    padding: px;
+}
+th, td{
+    border-bottom: 1px solid lightgrey;
+    border-top: 1px solid lightgrey;
+    padding: 5px;
+}
+
+
+#image{
+    height: 35px;
+    width: 35px;
+}
+
+#map-canvas{
+    height: 450px;
+    width: 425px;
+    margin: 15px;
+    margin-left: 9px;
+}
+
+#forecast>p{
+    font-size: 25px;
+}
