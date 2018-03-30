@@ -13,10 +13,8 @@ Programming Skills from these projects:
 - XML/JSON
 - Node.js
 - D3.js
-- PostgreSQL
 - MongoDB
 - Mongoose
-- dust
 
 I also collaborated in this repository for my final project.
 https://github.com/alex2639/csci3230-final-project
