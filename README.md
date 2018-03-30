@@ -1,10 +1,7 @@
 # WebDep
 
 Welcome to my GitHub Repository on Web Development.
-This repository show cases projects that I have been 
-Assigned while I was learning Website Development.
-It also include a folder that demonstrate my the start
-of my project, during my intership.
+This repository show cases projects that I have been assigned while I was learning Website Development.
 
 Programming Skills from these projects:
 - HTML5
